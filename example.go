@@ -3,7 +3,9 @@ package webtenderApi
 import (
 	"fmt"
 	"log"
-	// Load .env file
+	// you will need this
+	// webtenderApi "github.com/webtender/api-client-go"
+	// optionally load .env file
 	// _ "github.com/joho/godotenv/autoload"
 )
 

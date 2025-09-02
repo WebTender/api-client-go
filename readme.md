@@ -25,6 +25,8 @@ WEBTENDER_API_SECRET=your-api-secret
 Simply construct
 ```go
 import (
+    webtenderApi "github.com/webtender/api-client-go"
+
 	// Load .env file
 	_ "github.com/joho/godotenv/autoload"
 )
